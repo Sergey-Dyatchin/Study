@@ -16,3 +16,7 @@ git commit -m "Message"
 ```sh
 git log
 ```
+## Показать лог изменений в одну строку
+```sh
+git log --oneline
+```
