@@ -8,4 +8,8 @@ git init
 ```sh
 git add <filename>
 ```
+## Запись изменений в репозиторий 
+```sh
+git commit -m "Message"
+```
 
