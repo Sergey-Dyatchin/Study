@@ -12,4 +12,7 @@ git add <filename>
 ```sh
 git commit -m "Message"
 ```
-
+## Показать лог изменений 
+```sh
+git log
+```
