@@ -32,3 +32,7 @@ git rm <filename>
 ```sh
 git branch
 ```
+## Создание новой ветки
+```sh
+git branch <имя новой ветки>
+```
