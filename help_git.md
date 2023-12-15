@@ -28,3 +28,7 @@ git checkout <код чекаута полный или первые 7 цифр 
 ```sh
 git rm <filename>
 ```
+## Отображение всех веток
+```sh
+git branch
+```
